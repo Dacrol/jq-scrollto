@@ -5,5 +5,8 @@
   "main": "scrollto.js",
   "repository": "git@github.com:Dacrol/jq-scrollto.git",
   "author": "Dacrol <jonas.ahrens@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery-ui": "^1.12.1"
+  }
 }
