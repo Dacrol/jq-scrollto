@@ -1,7 +1,7 @@
 {
   "name": "jq-scrollto",
   "version": "1.0.0",
-  "description": "Assigns the scrollTo method to jQuery",
+  "description": "Assigns a scrollTo method to jQuery",
   "main": "scrollto.js",
   "repository": "git@github.com:Dacrol/jq-scrollto.git",
   "author": "Dacrol <jonas.ahrens@gmail.com>",
